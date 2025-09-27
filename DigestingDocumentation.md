@@ -163,12 +163,3 @@ pwn.college{gO5eYawMKmwX5FyAfco-B5if6EY.QX0ETO0wCO0EzNzEzW}
 ## What I learned
 
 help command can be used with an argument if it is a builtin function
-
-
-
-
-
-
-
-
-
